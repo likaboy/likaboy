@@ -7,7 +7,7 @@
 - 😄 Read more about my library: [月神书架](https://read.likamao.top/)
 - 🎭 Find more about my github: [LIKAMAO](https://github.com/likamao)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/likaboy/count.svg) visitor,Thank You!
+You are my ![Visitor Count](https://profile-counter.glitch.me/likamao/count.svg) visitor,Thank You!
 
 ## ✨ My Skills   
 
@@ -27,6 +27,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/likaboy/count.svg)
 
 ## This year's summary ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=likaboy&hide_title=true&hide_border=true&show_icons=false&include_all_commits=true&line_height=21&bg_color=0,E6ECEF,D8E2E8,F0F4F6&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likaboy&hide_title=true&hide_border=true&layout=compact&bg_color=0,E6ECEF,D8E2E8,F0F4F6&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=likamao&hide_title=true&hide_border=true&show_icons=false&include_all_commits=true&line_height=21&bg_color=0,E6ECEF,D8E2E8,F0F4F6&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likamao&hide_title=true&hide_border=true&layout=compact&bg_color=0,E6ECEF,D8E2E8,F0F4F6&theme=graywhite&locale=cn" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
