@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Leo.
+## Hi there 👋,I'm Yi Ming.
 
 - 🔭 I’m currently working in a energy Company.
 - 🌱 I’m currently learning Everything I like.
