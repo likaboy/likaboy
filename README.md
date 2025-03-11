@@ -7,7 +7,6 @@
 - 😄 Read more about my library: [月神书架](https://read.likamao.top/)
 - 🎭 Read more about my blog: [南港听夏](https://likaboy.github.io/)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 You are my ![Visitor Count](https://profile-counter.glitch.me/likaboy/count.svg) visitor,Thank You!
 
 ## ✨ My Skills   
