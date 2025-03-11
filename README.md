@@ -6,6 +6,7 @@
 - 📫 How to reach me: likamao@outlook.com
 - 😄 Read more about my library: [月神书架](https://read.likamao.top/)
 - 🎭 Read more about my blog: [南港听夏](https://likaboy.github.io/)
+  
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
 
 ## ✨ My Skills   
@@ -14,7 +15,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=fff)
 ![](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=fff)
-![](https://img.shields.io/badge/-SpringCloud-5FB832?style=flat-square&logo=SpringCloud&logoColor=fff)
+![](https://img.shields.io/badge/-RabbitMQ-#FF6600?style=flat-square&logo=RabbitMQ&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
