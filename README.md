@@ -5,7 +5,7 @@
 - 💬 Ask me about anything related to Java or Philosophy.
 - 📫 How to reach me: likamao@outlook.com
 - 😄 Read more about my library: [月神书架](https://read.likamao.top/)
-- 🎭 Find more about my github: [LIKAMAO](https://github.com/likamao)
+- 🎭 Know more about my blog: [LIKAMAO](https://likamao.github.io)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/likamao/count.svg) visitor,Thank You!
 
