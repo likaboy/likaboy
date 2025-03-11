@@ -1,11 +1,11 @@
 ## Hi there 👋,I'm Yi Ming.
 
-- 🔭 I’m currently working in a energy Company.
-- 🌱 I’m currently learning Everything I like.
+- 💼 I'm currently working alone.
+- 🔭 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java or Philosophy.
 - 📫 How to reach me: likamao@outlook.com
 - 😄 Read more about my library: [月神书架](https://read.likamao.top/)
-- 🎭 Read more about my blog: [南港听夏](https://likamao.github.io/)
+- 🎭 Find more about my github: [LIKAMAO](https://github.com/likamao)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/likaboy/count.svg) visitor,Thank You!
 
