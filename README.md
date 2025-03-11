@@ -5,7 +5,7 @@
 - 💬 Ask me about anything related to Java or Philosophy.
 - 📫 How to reach me: likamao@outlook.com
 - 😄 Read more about my library: [月神书架](https://read.likamao.top/)
-- 🎭 Read more about my blog: [南港听夏](https://likaboy.github.io/)
+- 🎭 Read more about my blog: [南港听夏](https://likamao.github.io/)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/likaboy/count.svg) visitor,Thank You!
 
